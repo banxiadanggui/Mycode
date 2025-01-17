@@ -63,3 +63,5 @@ with torch.no_grad():
 #     # Rounded output for prediction
 #     print("\nPredicted outputs (rounded):")
 #     print(output_layer_output.round())
+def test():
+    return True
